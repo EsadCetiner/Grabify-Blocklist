@@ -35,3 +35,5 @@ fortnitechat.site
 fortnight.space
 stopify.co
 grabify.link
+grabifyicu.com
+grabify.icu
