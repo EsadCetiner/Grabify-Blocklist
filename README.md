@@ -6,4 +6,4 @@ This can easily be prevented by using a blocklist.
 This blocklist should work with any DNS sinkhole like Pi-Hole and Adguard Home
 
 ## How to Install
-To install this blocklist, simply add this ``https://raw.githubusercontent.com/EsadCetiner/Grabify-Blocklist/main/blocklist.txt`` inside your Pi-Hole/Adguard Home.
+To install this blocklist, simply add https://raw.githubusercontent.com/EsadCetiner/Grabify-Blocklist/main/blocklist.txt inside your Pi-Hole/Adguard Home.
