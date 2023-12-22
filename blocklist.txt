@@ -1,3 +1,11 @@
+# ----------------------------------------------------------------------------------------------
+# Grabify Blocklist
+# Copyright (c) 2022-2023 Esad Cetiner
+#
+# This DNS list is distributed under GPLv2
+# Please see for full details: https://github.com/EsadCetiner/Grabify-Blocklist/blob/main/LICENSE
+# ----------------------------------------------------------------------------------------------
+
 photovault.pics
 bathtub.pics
 foot.wiki
